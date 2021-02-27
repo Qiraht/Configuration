@@ -1,0 +1,23 @@
+## Deace.id
+Server = http://mirror.deace.id/archlinux/$repo/os/$arch
+
+# Faizul Adib
+Server = http://mirror.faizuladib.com/archlinux/$repo/os/$arch
+
+## Klas Surabaya
+Server = https://buaya.klas.or.id/arch/$repo/os/$arch
+
+## JagoanHosting
+Server = https://vpsmurah.jagoanhosting.com/archlinux/$repo/os/$arch
+
+## Labkom Indonesia
+Server = http://mirror.labkom.id/archlinux/$repo/os/$arch
+
+## Telkom University
+Server = https://mirror.telkomuniversity.ac.id/archlinux/$repo/os/$arch
+
+## Universitas Surabaya
+Server = https://suro.ubaya.ac.id/archlinux/$repo/os/$arch
+
+## Pemda Papua
+Server = https://mirror.papua.go.id/archlinux/$repo/os/$arch
