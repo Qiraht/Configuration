@@ -123,7 +123,3 @@ alias gbra="git branch"
 
 # Shortcut for some useful utilities
 alias fstab="cat /etc/fstab"
-
-# i3 Config Shortcut
-alias i3config="nano /home/qiraht/.config/i3/config"
-alias i3bc="nano /home/qiraht/.config/i3blocks/i3blocks.conf"
