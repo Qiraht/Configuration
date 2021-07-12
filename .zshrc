@@ -99,8 +99,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-# For Modprobed-db to easily store modules
-alias store-mod='modprobed-db store'
 
 # Utilities
 alias cls="clear"
@@ -120,6 +118,8 @@ alias gpul="git pull"
 alias gclo="git clone"
 alias gche="git checkout"
 alias gbra="git branch"
+alias gset="git reset"
+alias gres="git restore"
 
 # Shortcut for some useful utilities
 alias fstab="cat /etc/fstab"
