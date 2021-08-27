@@ -70,7 +70,7 @@ ZSH_THEME="awesomepanda"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git adb common-aliases colored-man-pages command-not-found cp copyfile copydir archlinux)
+plugins=(git adb common-aliases colored-man-pages command-not-found cp copyfile copydir archlinux vscode)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -118,8 +118,13 @@ alias gpul="git pull"
 alias gclo="git clone"
 alias gche="git checkout"
 alias gbra="git branch"
-alias gset="git reset"
-alias gres="git restore"
+alias gfet="git fetch"
+alias gres="git reset"
+alias grev="git revert"
+alias gret="git restore"
+
+# Upgrading oh-my-zsh
+alias omzsh="bash /usr/share/oh-my-zsh/tools/upgrade.sh"
 
 # Shortcut for some useful utilities
 alias fstab="cat /etc/fstab"
