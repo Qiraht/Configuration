@@ -177,17 +177,21 @@ alias wine64='WINEARCH=win64'
 alias wine32='WINEARCH=win32 WINEPREFIX=~/Wine/wine32'
 
 # Git Aliases
-alias gnit='git init'
-alias gadd='git add'
-alias gcom='git commit'
-alias gpus='git push'
-alias gpul='git pull'
-alias gclo='git clone'
+alias gnit="git init"
+alias gadd="git add"
+alias gcom="git commit"
+alias gpus="git push"
+alias gpul="git pull"
+alias gclo="git clone"
 alias gche="git checkout"
 alias gbra="git branch"
+alias gfet="git fetch"
+alias gres="git reset"
+alias grev="git revert"
+alias gret="git restore"
 
 # Shortcut for some useful utilities
-alias fstab='cat /etc/fstab'
+alias fstab='/etc/fstab'
 
 # alias ef='_open_files_for_editing'     # 'ef' opens given file(s) for editing
 ################################################################################
