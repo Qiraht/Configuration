@@ -127,4 +127,8 @@ alias gret="git restore"
 alias omzsh="bash /usr/share/oh-my-zsh/tools/upgrade.sh"
 
 # Shortcut for some useful utilities
-alias fstab="cat /etc/fstab"
+alias fstab="/etc/fstab"
+# Bspwm Config
+alias bspconfig="~/.config/bspwm/bspwmrc"
+# Sxhkd config
+alias sxconfing="~/.config/sxhkd/sxhkdrc"
