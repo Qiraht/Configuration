@@ -6,4 +6,5 @@ This repository contain (some of) my configuration that i use, mainly for :
 * modprobe.d
 * X11 (For NVIDIA Reverse PRIME Render Offload)
 * Mirrorlist
+* Dracut
 * and Others
